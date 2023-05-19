@@ -17,5 +17,5 @@ def fatorial(num, show=False):
     return f
 
 
-# Programa principal
+# Main Program
 print(fatorial(5, show=True))

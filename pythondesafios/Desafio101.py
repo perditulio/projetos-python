@@ -9,7 +9,7 @@ def voto(ano):
         return f'Com {idade} anos: NÃO VOTA.'
 
 
-# Programa principal
+# Main Program
 print(50 * '-')
 nasc = (int(input('Informe o ano de nascimento: ')))
 print(voto(nasc))
