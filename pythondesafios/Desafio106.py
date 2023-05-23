@@ -28,7 +28,7 @@ def título(msg, cor=0):
     sleep(1)
 
 
-# Programa principal
+# Program principal
 título('SISTEMA DE AJUDA PyHELP', 5)
 while True:
     opc = input(f'{c[0]}Digite o comando para ver as instruções (FIM para terminar): ')
